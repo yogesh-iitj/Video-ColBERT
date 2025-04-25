@@ -16,7 +16,7 @@ Video-ColBERT introduces a simple and efficient mechanism for fine-grained simil
 
 ```bash
 # Clone the repository
-https://github.com/yogesh-iitj/Video-ColBERT
+git clone https://github.com/yogesh-iitj/Video-ColBERT
 cd video-colbert
 
 # Install dependencies
