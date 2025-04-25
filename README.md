@@ -1,4 +1,3 @@
-Here's the README with the paper link added:
 
 # Video-ColBERT: Text-to-Video Retrieval
 
