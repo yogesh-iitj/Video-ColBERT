@@ -1,5 +1,5 @@
 
-# Video-ColBERT: Contextualized Late Interaction for Text-to-Video Retrieval. [original paper](https://arxiv.org/pdf/2503.19009v1)
+# Video-ColBERT: Contextualized Late Interaction for Text-to-Video Retrieval. [Paper](https://arxiv.org/pdf/2503.19009v1)
 
 
 This repository implements Video-ColBERT, a contextualized late interaction model for text-to-video retrieval. Video-ColBERT performs fine-grained token-wise interactions between text queries and video content.
